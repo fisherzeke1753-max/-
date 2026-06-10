@@ -1,0 +1,14 @@
+{
+  "name": "gpt-integration-starter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Minimal OpenAI GPT integration using the Responses API.",
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
